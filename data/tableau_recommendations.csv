@@ -1,0 +1,251 @@
+hobby_id,hobby_name,category,physical_demand,score,user_id,rank,cluster,segment_name,age,city,physical_ability
+17,Music,creative,low,5,1,1,3,High Engagers,85,Saline,low
+5,Painting,creative,low,5,1,2,3,High Engagers,85,Saline,low
+6,Knitting,creative,low,5,1,3,3,High Engagers,85,Saline,low
+16,Tai Chi,fitness,low,5,1,4,3,High Engagers,85,Saline,low
+20,Card Games,social,low,4,1,5,3,High Engagers,85,Saline,low
+20,Card Games,social,low,7,2,1,0,Social Homebodies,85,Canton,low
+14,Volunteering,social,low,7,2,2,0,Social Homebodies,85,Canton,low
+13,Book Club,social,low,7,2,3,0,Social Homebodies,85,Canton,low
+18,Travel,social,medium,5,2,4,0,Social Homebodies,85,Canton,low
+12,Dancing,social,medium,5,2,5,0,Social Homebodies,85,Canton,low
+11,Swimming,fitness,medium,5,3,1,2,Active Independents,68,Ypsilanti,medium
+10,Yoga,fitness,medium,5,3,2,2,Active Independents,68,Ypsilanti,medium
+16,Tai Chi,fitness,low,4,3,3,2,Active Independents,68,Ypsilanti,medium
+19,Pottery,creative,medium,2,3,4,2,Active Independents,68,Ypsilanti,medium
+18,Travel,social,medium,2,3,5,2,Active Independents,68,Ypsilanti,medium
+19,Pottery,creative,medium,5,4,1,0,Social Homebodies,82,Canton,medium
+15,Woodworking,creative,medium,5,4,2,0,Social Homebodies,82,Canton,medium
+18,Travel,social,medium,4,4,3,0,Social Homebodies,82,Canton,medium
+5,Painting,creative,low,4,4,4,0,Social Homebodies,82,Canton,medium
+6,Knitting,creative,low,4,4,5,0,Social Homebodies,82,Canton,medium
+11,Swimming,fitness,medium,5,5,1,2,Active Independents,62,Ypsilanti,medium
+19,Pottery,creative,medium,5,5,2,2,Active Independents,62,Ypsilanti,medium
+15,Woodworking,creative,medium,5,5,3,2,Active Independents,62,Ypsilanti,medium
+10,Yoga,fitness,medium,5,5,4,2,Active Independents,62,Ypsilanti,medium
+5,Painting,creative,low,4,5,5,2,Active Independents,62,Ypsilanti,medium
+8,Reading,indoor,low,5,6,1,1,Weekend Explorers,72,Ann Arbor,low
+9,Chess,indoor,low,5,6,2,1,Weekend Explorers,72,Ann Arbor,low
+7,Cooking,indoor,low,5,6,3,1,Weekend Explorers,72,Ann Arbor,low
+20,Card Games,social,low,4,6,4,1,Weekend Explorers,72,Ann Arbor,low
+14,Volunteering,social,low,4,6,5,1,Weekend Explorers,72,Ann Arbor,low
+11,Swimming,fitness,medium,5,7,1,2,Active Independents,70,Ann Arbor,medium
+10,Yoga,fitness,medium,5,7,2,2,Active Independents,70,Ann Arbor,medium
+16,Tai Chi,fitness,low,4,7,3,2,Active Independents,70,Ann Arbor,medium
+7,Cooking,indoor,low,4,7,4,2,Active Independents,70,Ann Arbor,medium
+8,Reading,indoor,low,4,7,5,2,Active Independents,70,Ann Arbor,medium
+3,Hiking,outdoor,high,5,8,1,0,Social Homebodies,79,Saline,high
+1,Gardening,outdoor,low,4,8,2,0,Social Homebodies,79,Saline,high
+4,Photography,outdoor,low,4,8,3,0,Social Homebodies,79,Saline,high
+5,Painting,creative,low,4,8,4,0,Social Homebodies,79,Saline,high
+6,Knitting,creative,low,4,8,5,0,Social Homebodies,79,Saline,high
+5,Painting,creative,low,5,9,1,1,Weekend Explorers,68,Ann Arbor,low
+6,Knitting,creative,low,5,9,2,1,Weekend Explorers,68,Ann Arbor,low
+17,Music,creative,low,5,9,3,1,Weekend Explorers,68,Ann Arbor,low
+1,Gardening,outdoor,low,3,9,4,1,Weekend Explorers,68,Ann Arbor,low
+19,Pottery,creative,medium,3,9,5,1,Weekend Explorers,68,Ann Arbor,low
+20,Card Games,social,low,5,10,1,1,Weekend Explorers,69,Ann Arbor,low
+16,Tai Chi,fitness,low,5,10,2,1,Weekend Explorers,69,Ann Arbor,low
+14,Volunteering,social,low,5,10,3,1,Weekend Explorers,69,Ann Arbor,low
+13,Book Club,social,low,5,10,4,1,Weekend Explorers,69,Ann Arbor,low
+10,Yoga,fitness,medium,3,10,5,1,Weekend Explorers,69,Ann Arbor,low
+17,Music,creative,low,5,11,1,1,Weekend Explorers,73,Saline,low
+5,Painting,creative,low,5,11,2,1,Weekend Explorers,73,Saline,low
+6,Knitting,creative,low,5,11,3,1,Weekend Explorers,73,Saline,low
+20,Card Games,social,low,4,11,4,1,Weekend Explorers,73,Saline,low
+14,Volunteering,social,low,4,11,5,1,Weekend Explorers,73,Saline,low
+1,Gardening,outdoor,low,5,12,1,0,Social Homebodies,82,Ypsilanti,medium
+4,Photography,outdoor,low,5,12,2,0,Social Homebodies,82,Ypsilanti,medium
+19,Pottery,creative,medium,5,12,3,0,Social Homebodies,82,Ypsilanti,medium
+15,Woodworking,creative,medium,5,12,4,0,Social Homebodies,82,Ypsilanti,medium
+2,Bird Watching,outdoor,low,5,12,5,0,Social Homebodies,82,Ypsilanti,medium
+20,Card Games,social,low,7,13,1,2,Active Independents,70,Canton,low
+14,Volunteering,social,low,7,13,2,2,Active Independents,70,Canton,low
+13,Book Club,social,low,7,13,3,2,Active Independents,70,Canton,low
+18,Travel,social,medium,5,13,4,2,Active Independents,70,Canton,low
+16,Tai Chi,fitness,low,5,13,5,2,Active Independents,70,Canton,low
+12,Dancing,social,medium,4,14,1,2,Active Independents,63,Saline,medium
+18,Travel,social,medium,4,14,2,2,Active Independents,63,Saline,medium
+7,Cooking,indoor,low,4,14,3,2,Active Independents,63,Saline,medium
+8,Reading,indoor,low,4,14,4,2,Active Independents,63,Saline,medium
+9,Chess,indoor,low,4,14,5,2,Active Independents,63,Saline,medium
+20,Card Games,social,low,4,15,1,3,High Engagers,84,Saline,low
+14,Volunteering,social,low,4,15,2,3,High Engagers,84,Saline,low
+13,Book Club,social,low,4,15,3,3,High Engagers,84,Saline,low
+2,Bird Watching,outdoor,low,3,15,4,3,High Engagers,84,Saline,low
+1,Gardening,outdoor,low,3,15,5,3,High Engagers,84,Saline,low
+8,Reading,indoor,low,5,16,1,1,Weekend Explorers,70,Ypsilanti,low
+9,Chess,indoor,low,5,16,2,1,Weekend Explorers,70,Ypsilanti,low
+7,Cooking,indoor,low,5,16,3,1,Weekend Explorers,70,Ypsilanti,low
+20,Card Games,social,low,4,16,4,1,Weekend Explorers,70,Ypsilanti,low
+14,Volunteering,social,low,4,16,5,1,Weekend Explorers,70,Ypsilanti,low
+20,Card Games,social,low,3,17,1,0,Social Homebodies,80,Plymouth,high
+14,Volunteering,social,low,3,17,2,0,Social Homebodies,80,Plymouth,high
+13,Book Club,social,low,3,17,3,0,Social Homebodies,80,Plymouth,high
+3,Hiking,outdoor,high,2,17,4,0,Social Homebodies,80,Plymouth,high
+18,Travel,social,medium,2,17,5,0,Social Homebodies,80,Plymouth,high
+17,Music,creative,low,5,18,1,3,High Engagers,78,Plymouth,low
+5,Painting,creative,low,5,18,2,3,High Engagers,78,Plymouth,low
+6,Knitting,creative,low,5,18,3,3,High Engagers,78,Plymouth,low
+16,Tai Chi,fitness,low,5,18,4,3,High Engagers,78,Plymouth,low
+20,Card Games,social,low,4,18,5,3,High Engagers,78,Plymouth,low
+19,Pottery,creative,medium,5,19,1,0,Social Homebodies,82,Ypsilanti,medium
+15,Woodworking,creative,medium,5,19,2,0,Social Homebodies,82,Ypsilanti,medium
+12,Dancing,social,medium,4,19,3,0,Social Homebodies,82,Ypsilanti,medium
+18,Travel,social,medium,4,19,4,0,Social Homebodies,82,Ypsilanti,medium
+5,Painting,creative,low,4,19,5,0,Social Homebodies,82,Ypsilanti,medium
+20,Card Games,social,low,6,20,1,1,Weekend Explorers,74,Canton,high
+14,Volunteering,social,low,6,20,2,1,Weekend Explorers,74,Canton,high
+13,Book Club,social,low,6,20,3,1,Weekend Explorers,74,Canton,high
+12,Dancing,social,medium,5,20,4,1,Weekend Explorers,74,Canton,high
+18,Travel,social,medium,5,20,5,1,Weekend Explorers,74,Canton,high
+1,Gardening,outdoor,low,5,21,1,2,Active Independents,62,Ann Arbor,medium
+15,Woodworking,creative,medium,5,21,2,2,Active Independents,62,Ann Arbor,medium
+4,Photography,outdoor,low,5,21,3,2,Active Independents,62,Ann Arbor,medium
+19,Pottery,creative,medium,5,21,4,2,Active Independents,62,Ann Arbor,medium
+2,Bird Watching,outdoor,low,5,21,5,2,Active Independents,62,Ann Arbor,medium
+1,Gardening,outdoor,low,6,22,1,3,High Engagers,82,Saline,low
+4,Photography,outdoor,low,6,22,2,3,High Engagers,82,Saline,low
+2,Bird Watching,outdoor,low,6,22,3,3,High Engagers,82,Saline,low
+5,Painting,creative,low,5,22,4,3,High Engagers,82,Saline,low
+6,Knitting,creative,low,5,22,5,3,High Engagers,82,Saline,low
+5,Painting,creative,low,4,23,1,0,Social Homebodies,85,Saline,high
+6,Knitting,creative,low,4,23,2,0,Social Homebodies,85,Saline,high
+17,Music,creative,low,4,23,3,0,Social Homebodies,85,Saline,high
+16,Tai Chi,fitness,low,4,23,4,0,Social Homebodies,85,Saline,high
+11,Swimming,fitness,medium,3,23,5,0,Social Homebodies,85,Saline,high
+7,Cooking,indoor,low,4,24,1,2,Active Independents,65,Saline,high
+8,Reading,indoor,low,4,24,2,2,Active Independents,65,Saline,high
+9,Chess,indoor,low,4,24,3,2,Active Independents,65,Saline,high
+3,Hiking,outdoor,high,3,24,4,2,Active Independents,65,Saline,high
+1,Gardening,outdoor,low,2,24,5,2,Active Independents,65,Saline,high
+19,Pottery,creative,medium,5,25,1,1,Weekend Explorers,73,Ypsilanti,medium
+18,Travel,social,medium,5,25,2,1,Weekend Explorers,73,Ypsilanti,medium
+15,Woodworking,creative,medium,5,25,3,1,Weekend Explorers,73,Ypsilanti,medium
+12,Dancing,social,medium,5,25,4,1,Weekend Explorers,73,Ypsilanti,medium
+1,Gardening,outdoor,low,4,25,5,1,Weekend Explorers,73,Ypsilanti,medium
+20,Card Games,social,low,5,26,1,2,Active Independents,62,Canton,low
+5,Painting,creative,low,5,26,2,2,Active Independents,62,Canton,low
+6,Knitting,creative,low,5,26,3,2,Active Independents,62,Canton,low
+17,Music,creative,low,5,26,4,2,Active Independents,62,Canton,low
+14,Volunteering,social,low,5,26,5,2,Active Independents,62,Canton,low
+7,Cooking,indoor,low,5,27,1,1,Weekend Explorers,71,Ypsilanti,low
+8,Reading,indoor,low,5,27,2,1,Weekend Explorers,71,Ypsilanti,low
+9,Chess,indoor,low,5,27,3,1,Weekend Explorers,71,Ypsilanti,low
+20,Card Games,social,low,4,27,4,1,Weekend Explorers,71,Ypsilanti,low
+14,Volunteering,social,low,4,27,5,1,Weekend Explorers,71,Ypsilanti,low
+20,Card Games,social,low,3,28,1,3,High Engagers,85,Plymouth,high
+3,Hiking,outdoor,high,3,28,2,3,High Engagers,85,Plymouth,high
+14,Volunteering,social,low,3,28,3,3,High Engagers,85,Plymouth,high
+13,Book Club,social,low,3,28,4,3,High Engagers,85,Plymouth,high
+2,Bird Watching,outdoor,low,2,28,5,3,High Engagers,85,Plymouth,high
+1,Gardening,outdoor,low,5,29,1,2,Active Independents,66,Ypsilanti,medium
+2,Bird Watching,outdoor,low,5,29,2,2,Active Independents,66,Ypsilanti,medium
+4,Photography,outdoor,low,5,29,3,2,Active Independents,66,Ypsilanti,medium
+3,Hiking,outdoor,high,4,29,4,2,Active Independents,66,Ypsilanti,medium
+18,Travel,social,medium,4,29,5,2,Active Independents,66,Ypsilanti,medium
+11,Swimming,fitness,medium,5,30,1,3,High Engagers,78,Canton,medium
+10,Yoga,fitness,medium,5,30,2,3,High Engagers,78,Canton,medium
+18,Travel,social,medium,4,30,3,3,High Engagers,78,Canton,medium
+16,Tai Chi,fitness,low,4,30,4,3,High Engagers,78,Canton,medium
+12,Dancing,social,medium,4,30,5,3,High Engagers,78,Canton,medium
+12,Dancing,social,medium,4,31,1,3,High Engagers,85,Ypsilanti,medium
+18,Travel,social,medium,4,31,2,3,High Engagers,85,Ypsilanti,medium
+7,Cooking,indoor,low,4,31,3,3,High Engagers,85,Ypsilanti,medium
+8,Reading,indoor,low,4,31,4,3,High Engagers,85,Ypsilanti,medium
+9,Chess,indoor,low,4,31,5,3,High Engagers,85,Ypsilanti,medium
+20,Card Games,social,low,4,32,1,3,High Engagers,78,Plymouth,low
+14,Volunteering,social,low,4,32,2,3,High Engagers,78,Plymouth,low
+13,Book Club,social,low,4,32,3,3,High Engagers,78,Plymouth,low
+2,Bird Watching,outdoor,low,3,32,4,3,High Engagers,78,Plymouth,low
+1,Gardening,outdoor,low,3,32,5,3,High Engagers,78,Plymouth,low
+20,Card Games,social,low,5,33,1,3,High Engagers,80,Canton,low
+14,Volunteering,social,low,5,33,2,3,High Engagers,80,Canton,low
+7,Cooking,indoor,low,5,33,3,3,High Engagers,80,Canton,low
+8,Reading,indoor,low,5,33,4,3,High Engagers,80,Canton,low
+9,Chess,indoor,low,5,33,5,3,High Engagers,80,Canton,low
+20,Card Games,social,low,5,34,1,3,High Engagers,82,Ann Arbor,low
+14,Volunteering,social,low,5,34,2,3,High Engagers,82,Ann Arbor,low
+13,Book Club,social,low,5,34,3,3,High Engagers,82,Ann Arbor,low
+7,Cooking,indoor,low,5,34,4,3,High Engagers,82,Ann Arbor,low
+8,Reading,indoor,low,5,34,5,3,High Engagers,82,Ann Arbor,low
+20,Card Games,social,low,5,35,1,0,Social Homebodies,78,Ypsilanti,low
+16,Tai Chi,fitness,low,5,35,2,0,Social Homebodies,78,Ypsilanti,low
+14,Volunteering,social,low,5,35,3,0,Social Homebodies,78,Ypsilanti,low
+13,Book Club,social,low,5,35,4,0,Social Homebodies,78,Ypsilanti,low
+10,Yoga,fitness,medium,3,35,5,0,Social Homebodies,78,Ypsilanti,low
+19,Pottery,creative,medium,5,36,1,0,Social Homebodies,85,Canton,medium
+15,Woodworking,creative,medium,5,36,2,0,Social Homebodies,85,Canton,medium
+18,Travel,social,medium,4,36,3,0,Social Homebodies,85,Canton,medium
+5,Painting,creative,low,4,36,4,0,Social Homebodies,85,Canton,medium
+6,Knitting,creative,low,4,36,5,0,Social Homebodies,85,Canton,medium
+8,Reading,indoor,low,5,37,1,1,Weekend Explorers,75,Ypsilanti,low
+9,Chess,indoor,low,5,37,2,1,Weekend Explorers,75,Ypsilanti,low
+7,Cooking,indoor,low,5,37,3,1,Weekend Explorers,75,Ypsilanti,low
+20,Card Games,social,low,4,37,4,1,Weekend Explorers,75,Ypsilanti,low
+14,Volunteering,social,low,4,37,5,1,Weekend Explorers,75,Ypsilanti,low
+20,Card Games,social,low,6,38,1,1,Weekend Explorers,75,Plymouth,high
+14,Volunteering,social,low,6,38,2,1,Weekend Explorers,75,Plymouth,high
+13,Book Club,social,low,6,38,3,1,Weekend Explorers,75,Plymouth,high
+12,Dancing,social,medium,5,38,4,1,Weekend Explorers,75,Plymouth,high
+18,Travel,social,medium,5,38,5,1,Weekend Explorers,75,Plymouth,high
+3,Hiking,outdoor,high,5,39,1,1,Weekend Explorers,74,Saline,high
+1,Gardening,outdoor,low,4,39,2,1,Weekend Explorers,74,Saline,high
+4,Photography,outdoor,low,4,39,3,1,Weekend Explorers,74,Saline,high
+16,Tai Chi,fitness,low,4,39,4,1,Weekend Explorers,74,Saline,high
+2,Bird Watching,outdoor,low,4,39,5,1,Weekend Explorers,74,Saline,high
+20,Card Games,social,low,7,40,1,0,Social Homebodies,79,Plymouth,low
+14,Volunteering,social,low,7,40,2,0,Social Homebodies,79,Plymouth,low
+13,Book Club,social,low,7,40,3,0,Social Homebodies,79,Plymouth,low
+18,Travel,social,medium,5,40,4,0,Social Homebodies,79,Plymouth,low
+16,Tai Chi,fitness,low,5,40,5,0,Social Homebodies,79,Plymouth,low
+3,Hiking,outdoor,high,5,41,1,2,Active Independents,64,Plymouth,high
+1,Gardening,outdoor,low,4,41,2,2,Active Independents,64,Plymouth,high
+2,Bird Watching,outdoor,low,4,41,3,2,Active Independents,64,Plymouth,high
+14,Volunteering,social,low,4,41,4,2,Active Independents,64,Plymouth,high
+13,Book Club,social,low,4,41,5,2,Active Independents,64,Plymouth,high
+20,Card Games,social,low,6,42,1,0,Social Homebodies,82,Canton,high
+14,Volunteering,social,low,6,42,2,0,Social Homebodies,82,Canton,high
+13,Book Club,social,low,6,42,3,0,Social Homebodies,82,Canton,high
+18,Travel,social,medium,5,42,4,0,Social Homebodies,82,Canton,high
+12,Dancing,social,medium,5,42,5,0,Social Homebodies,82,Canton,high
+11,Swimming,fitness,medium,5,43,1,3,High Engagers,75,Plymouth,medium
+10,Yoga,fitness,medium,5,43,2,3,High Engagers,75,Plymouth,medium
+18,Travel,social,medium,4,43,3,3,High Engagers,75,Plymouth,medium
+16,Tai Chi,fitness,low,4,43,4,3,High Engagers,75,Plymouth,medium
+12,Dancing,social,medium,4,43,5,3,High Engagers,75,Plymouth,medium
+5,Painting,creative,low,4,44,1,1,Weekend Explorers,74,Ann Arbor,high
+6,Knitting,creative,low,4,44,2,1,Weekend Explorers,74,Ann Arbor,high
+17,Music,creative,low,4,44,3,1,Weekend Explorers,74,Ann Arbor,high
+20,Card Games,social,low,3,44,4,1,Weekend Explorers,74,Ann Arbor,high
+13,Book Club,social,low,3,44,5,1,Weekend Explorers,74,Ann Arbor,high
+12,Dancing,social,medium,7,45,1,3,High Engagers,75,Canton,medium
+18,Travel,social,medium,7,45,2,3,High Engagers,75,Canton,medium
+20,Card Games,social,low,6,45,3,3,High Engagers,75,Canton,medium
+14,Volunteering,social,low,6,45,4,3,High Engagers,75,Canton,medium
+13,Book Club,social,low,6,45,5,3,High Engagers,75,Canton,medium
+1,Gardening,outdoor,low,2,46,1,1,Weekend Explorers,68,Ann Arbor,medium
+10,Yoga,fitness,medium,2,46,2,1,Weekend Explorers,68,Ann Arbor,medium
+19,Pottery,creative,medium,2,46,3,1,Weekend Explorers,68,Ann Arbor,medium
+18,Travel,social,medium,2,46,4,1,Weekend Explorers,68,Ann Arbor,medium
+15,Woodworking,creative,medium,2,46,5,1,Weekend Explorers,68,Ann Arbor,medium
+1,Gardening,outdoor,low,5,47,1,2,Active Independents,63,Canton,medium
+4,Photography,outdoor,low,5,47,2,2,Active Independents,63,Canton,medium
+2,Bird Watching,outdoor,low,5,47,3,2,Active Independents,63,Canton,medium
+3,Hiking,outdoor,high,4,47,4,2,Active Independents,63,Canton,medium
+10,Yoga,fitness,medium,2,47,5,2,Active Independents,63,Canton,medium
+7,Cooking,indoor,low,5,48,1,2,Active Independents,63,Canton,low
+8,Reading,indoor,low,5,48,2,2,Active Independents,63,Canton,low
+9,Chess,indoor,low,5,48,3,2,Active Independents,63,Canton,low
+1,Gardening,outdoor,low,3,48,4,2,Active Independents,63,Canton,low
+2,Bird Watching,outdoor,low,3,48,5,2,Active Independents,63,Canton,low
+18,Travel,social,medium,7,49,1,0,Social Homebodies,83,Ypsilanti,medium
+12,Dancing,social,medium,7,49,2,0,Social Homebodies,83,Ypsilanti,medium
+20,Card Games,social,low,6,49,3,0,Social Homebodies,83,Ypsilanti,medium
+14,Volunteering,social,low,6,49,4,0,Social Homebodies,83,Ypsilanti,medium
+13,Book Club,social,low,6,49,5,0,Social Homebodies,83,Ypsilanti,medium
+1,Gardening,outdoor,low,5,50,1,3,High Engagers,80,Canton,low
+2,Bird Watching,outdoor,low,5,50,2,3,High Engagers,80,Canton,low
+16,Tai Chi,fitness,low,5,50,3,3,High Engagers,80,Canton,low
+4,Photography,outdoor,low,5,50,4,3,High Engagers,80,Canton,low
+14,Volunteering,social,low,4,50,5,3,High Engagers,80,Canton,low

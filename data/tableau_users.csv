@@ -1,0 +1,51 @@
+user_id,name,age,city,physical_ability,tech_comfort,hours_per_week,prefers_outdoor,prefers_social,cluster,segment_name
+1,Mary Smith,85,Saline,low,low,12,No,Yes,3,High Engagers
+2,Virginia Lewis,85,Canton,low,low,7,Yes,Yes,0,Social Homebodies
+3,Dorothy Williams,68,Ypsilanti,medium,low,10,Yes,No,2,Active Independents
+4,John Lee,82,Canton,medium,low,7,No,Yes,0,Social Homebodies
+5,Richard Allen,62,Ypsilanti,medium,low,15,No,No,2,Active Independents
+6,Alice Davis,72,Ann Arbor,low,low,3,Yes,Yes,1,Weekend Explorers
+7,Carol Clark,70,Ann Arbor,medium,medium,12,No,No,2,Active Independents
+8,Linda Williams,79,Saline,high,medium,8,No,Yes,0,Social Homebodies
+9,Sandra Robinson,68,Ann Arbor,low,low,6,Yes,No,1,Weekend Explorers
+10,Thomas Williams,69,Ann Arbor,low,low,3,Yes,No,1,Weekend Explorers
+11,Sandra Miller,73,Saline,low,low,4,Yes,Yes,1,Weekend Explorers
+12,Ruth Clark,82,Ypsilanti,medium,low,5,Yes,Yes,0,Social Homebodies
+13,Karen White,70,Canton,low,low,14,Yes,Yes,2,Active Independents
+14,Betty Wilson,63,Saline,medium,low,14,Yes,Yes,2,Active Independents
+15,Roy King,84,Saline,low,low,15,Yes,Yes,3,High Engagers
+16,Karen Jones,70,Ypsilanti,low,medium,6,Yes,Yes,1,Weekend Explorers
+17,Donald Walker,80,Plymouth,high,low,7,No,Yes,0,Social Homebodies
+18,Charles Jones,78,Plymouth,low,low,15,No,Yes,3,High Engagers
+19,Mary Jones,82,Ypsilanti,medium,low,6,Yes,Yes,0,Social Homebodies
+20,Ruth White,74,Canton,high,medium,10,Yes,Yes,1,Weekend Explorers
+21,Lawrence Hernandez,62,Ann Arbor,medium,medium,10,Yes,Yes,2,Active Independents
+22,Richard Hall,82,Saline,low,low,15,Yes,No,3,High Engagers
+23,Karen Smith,85,Saline,high,medium,8,No,No,0,Social Homebodies
+24,Arthur Wright,65,Saline,high,medium,8,Yes,No,2,Active Independents
+25,John Jones,73,Ypsilanti,medium,medium,5,No,No,1,Weekend Explorers
+26,Frank Wright,62,Canton,low,low,12,Yes,No,2,Active Independents
+27,Sandra King,71,Ypsilanti,low,high,10,No,Yes,1,Weekend Explorers
+28,Frances Williams,85,Plymouth,high,high,14,Yes,Yes,3,High Engagers
+29,Ralph Hall,66,Ypsilanti,medium,high,11,Yes,Yes,2,Active Independents
+30,Robert Anderson,78,Canton,medium,low,13,No,Yes,3,High Engagers
+31,Ralph Hall,85,Ypsilanti,medium,low,14,No,Yes,3,High Engagers
+32,Sandra Martin,78,Plymouth,low,low,10,Yes,Yes,3,High Engagers
+33,Patricia Smith,80,Canton,low,low,11,No,No,3,High Engagers
+34,Ruth Lee,82,Ann Arbor,low,high,14,Yes,No,3,High Engagers
+35,Patricia Williams,78,Ypsilanti,low,low,9,Yes,No,0,Social Homebodies
+36,Ralph Jones,85,Canton,medium,low,10,Yes,Yes,0,Social Homebodies
+37,Harold Allen,75,Ypsilanti,low,medium,4,Yes,Yes,1,Weekend Explorers
+38,Carol Harris,75,Plymouth,high,low,2,Yes,Yes,1,Weekend Explorers
+39,Virginia Johnson,74,Saline,high,low,2,No,Yes,1,Weekend Explorers
+40,John Davis,79,Plymouth,low,low,5,No,Yes,0,Social Homebodies
+41,Karen Wilson,64,Plymouth,high,high,12,No,No,2,Active Independents
+42,Virginia Johnson,82,Canton,high,high,10,Yes,Yes,0,Social Homebodies
+43,George Miller,75,Plymouth,medium,high,15,No,Yes,3,High Engagers
+44,Betty Miller,74,Ann Arbor,high,low,5,No,Yes,1,Weekend Explorers
+45,Karen Taylor,75,Canton,medium,low,15,Yes,Yes,3,High Engagers
+46,John Taylor,68,Ann Arbor,medium,medium,5,Yes,No,1,Weekend Explorers
+47,Barbara Johnson,63,Canton,medium,high,15,Yes,No,2,Active Independents
+48,Frank Miller,63,Canton,low,low,12,Yes,No,2,Active Independents
+49,Eugene Williams,83,Ypsilanti,medium,high,4,Yes,Yes,0,Social Homebodies
+50,Roy Wilson,80,Canton,low,low,11,No,Yes,3,High Engagers
